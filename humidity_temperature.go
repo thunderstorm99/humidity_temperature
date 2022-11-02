@@ -1,4 +1,4 @@
-package humiditytemperature
+package humidity_temperature
 
 import (
 	"machine"
